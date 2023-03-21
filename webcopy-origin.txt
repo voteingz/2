@@ -1,0 +1,24 @@
+Uri: https://arabassiastarfz.pages.dev/
+File Name: C:\Downloaded Web Sites\arabassiastarfz.pages.dev\index.htm
+Content Type: text/html
+
+Uri: https://arabassiastarfz.pages.dev/css/my-login.css
+File Name: C:\Downloaded Web Sites\arabassiastarfz.pages.dev\css\my-login.css
+Content Type: text/css
+
+Uri: https://arabassiastarfz.pages.dev/img/logo.png
+File Name: C:\Downloaded Web Sites\arabassiastarfz.pages.dev\img\logo.png
+Content Type: image/png
+
+Uri: https://arabassiastarfz.pages.dev/js/my-login.js
+File Name: C:\Downloaded Web Sites\arabassiastarfz.pages.dev\js\my-login.js
+Content Type: text/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.slim.min.js
+File Name: C:\Downloaded Web Sites\arabassiastarfz.pages.dev\jquery-3.3.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\arabassiastarfz.pages.dev\bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
